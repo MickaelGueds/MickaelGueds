@@ -71,15 +71,9 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MickaelGueds&show_icons=true&count_private=true&hide_border=true&title_color=D100FF&icon_color=D100FF&text_color=c9d1d9&bg_color=0d1117" alt="MickaelGueds github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelGueds&layout=compact&hide_border=true&title_color=D100FF&text_color=D100FF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelGueds&layout=compact&hide_border=true&title_color=D100FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div align="center">
-
-<a href="https://github.com/MickaelGueds/">
-  <img src="https://github-readme-stats.vercel.app/api?username=MickaelGueds&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MickaelGueds&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="MickaelGueds"/>
-</a>
 
 <div align=center>
   <h3><b>📍 Contador de visitantes</b></h3>
