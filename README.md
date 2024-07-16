@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=800080&textBg=false&fontColor=800080"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=OLA+DEV,+Sou+Mickael+Gueds;Estudo+engenharia+de+software;Busco+sempre+oportunidades+para+me+aprimorar;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=OLA+DEV,+Sou+Mickael+Gueds;Estudo+engenharia+de+software;Busco+sempre+oportunidades+para+me+aprimorar;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MickaelGueds&bg_color=0d1117&color=800080&line=00FF7F&point=60ffaf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MickaelGueds&bg_color=9400D3&color=800080&line=00FF7F&point=60ffaf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
