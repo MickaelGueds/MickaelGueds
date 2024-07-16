@@ -76,7 +76,7 @@
 </a>
 
 <div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Contador de visitantes</b></h3>
 </div>
     
 <!-- retro visitor counter -->  
