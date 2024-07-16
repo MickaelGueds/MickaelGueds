@@ -17,11 +17,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Estudante de Engenharia de Software
+- Apaixonado por desenvolvimento web
+- Experiência com JavaScript, React, Node.js, Python e mais
+- Estudando constantemente novas tecnologias
+- Atualmente recém-estagiário na SEPLAN em análise de dados
 
 <br><br>
 
