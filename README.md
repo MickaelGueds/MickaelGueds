@@ -19,7 +19,7 @@
 <br><br>
 
 
-<img src="https://github.com/MickaelGueds/MickaelGueds/blob/main/line-colors-ezgif.com-resize.gif"><br><br>
+<img src="https://github.com/MickaelGueds/MickaelGueds/blob/main/line-colors-ezgif.com-resize.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -44,6 +44,7 @@
 <br>
 
 **Ferramentas**:
+<br>
     ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
     ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -51,8 +52,8 @@
     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  
-    
+<br>
+<img src="https://github.com/MickaelGueds/MickaelGueds/blob/main/line-colors-ezgif.com-resize.gif">
 
 </p>
 
