@@ -91,8 +91,7 @@
 <br>
 <br>
 <br>
-
------
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=800080&textBg=false&fontColor=800080&section=footer"/>
 
 <br>
 <br>
