@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=800080&textBg=false&fontColor=800080"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=800080&textBg=false&fontColor=800080"/>
 <h1 align="center"><b>Ola, eu sou Mickael Gueds </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
