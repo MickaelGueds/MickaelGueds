@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=800080&textBg=false&fontColor=800080"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=/MickaelGueds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MickaelGueds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D100FF&size=35&center=true&vCenter=true&width=1000&lines=OLA+DEV,+Sou+Mickael+Gueds;Estudo+engenharia+de+software;Busco+sempre+oportunidades+para+me+aprimorar;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
