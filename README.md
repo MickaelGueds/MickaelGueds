@@ -11,12 +11,13 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mim**
 
 <br>
-
-- Estudante de Engenharia de Software
-- Apaixonado por desenvolvimento web
-- Experiência com JavaScript, React, Node.js, Python e mais
-- Estudando constantemente novas tecnologias
-- Atualmente recém-estagiário na SEPLAN em análise de dados
+Estudante de Engenharia de Software
+Desenvolvedor Full Stack Jr
+Experiência com JavaScript, TypeScript, React, Next.js, Angular, Node.js (NestJS) e Python
+Conhecimento em Docker e práticas de DevOps (deploy, containers e ambientes)
+Uso de Git com Git Flow e organização de branches
+Experiência com otimização de contexto e uso de IA aplicada ao desenvolvimento
+Foco em desenvolvimento web moderno e arquiteturas escaláveis
 
 <br><br>
 
